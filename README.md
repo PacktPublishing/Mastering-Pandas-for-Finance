@@ -1,8 +1,10 @@
 # Mastering pandas for Finance 
 
-<a href="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/1/5104os_0.jpg"><img src="" alt="Mastering pandas for Finance " height="256px" align="right"></a>
+# Mastering pandas for Finance 
 
-This is the code repository for [Mastering pandas for Finance ](https://packtpub.com/big-data-and-business-intelligence/mastering-pandas-finance?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/mastering-pandas-finance?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="Mastering pandas for Finance " height="256px" align="right"></a>
+
+This is the code repository for [Mastering pandas for Finance ](https://prod.packtpub.com/in/big-data-and-business-intelligence/mastering-pandas-finance?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Master pandas, an open source Python Data Analysis Library, for financial data analysis**
 
