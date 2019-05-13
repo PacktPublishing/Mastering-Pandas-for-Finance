@@ -38,19 +38,6 @@ print (df)
 0
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-).
-### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
@@ -87,17 +74,6 @@ and he regularly delivers webinars and conducts training courses on emerging
 and advanced technologies. To know more about Michael, visit his website at
 http://bseamless.com/.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the authors
 [Big Data & Business Intelligence eBooks & Videos](https://www.packtpub.com/big-data-and-business-intelligence/instant-lucenenet-?utm_source=github&utm_medium=repository&utm_campaign=)
