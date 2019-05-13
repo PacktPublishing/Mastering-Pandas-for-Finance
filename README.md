@@ -7,9 +7,16 @@ This is the code repository for [Mastering pandas for Finance ](https://packtpub
 **Master pandas, an open source Python Data Analysis Library, for financial data analysis**
 
 ## What is this book about?
-0
 
 This book covers the following exciting features:
+
+* Modeling and manipulating financial data using the pandas DataFrame
+* Indexing, grouping, and calculating statistical results on financial information
+* Time-series modeling, frequency conversion, and deriving results on fixed and moving windows
+* Calculating cumulative returns and performing correlations with index and social data
+* Algorithmic trading and backtesting using momentum and mean reversion strategies
+* Option pricing and calculation of Value at Risk
+8 Modeling and optimization of financial portfolios
 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1783985100) today!
