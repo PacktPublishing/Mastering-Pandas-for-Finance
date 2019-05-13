@@ -1,7 +1,5 @@
 # Mastering pandas for Finance 
 
-# Mastering pandas for Finance 
-
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/mastering-pandas-finance?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="Mastering pandas for Finance " height="256px" align="right"></a>
 
 This is the code repository for [Mastering pandas for Finance ](https://prod.packtpub.com/in/big-data-and-business-intelligence/mastering-pandas-finance?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
