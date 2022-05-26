@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B02061?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Mastering pandas for Finance 
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/mastering-pandas-finance?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="Mastering pandas for Finance " height="256px" align="right"></a>
